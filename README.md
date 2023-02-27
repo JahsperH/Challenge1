@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This wbsite can be used to advertise a company that markets your social profiles.
+This website can be used to advertise a company that markets your social profiles.
 
 ## Credits
 
